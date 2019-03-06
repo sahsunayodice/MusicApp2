@@ -23,6 +23,12 @@
 
         <activity android:name=".Clarinet">
         </activity>
+        <activity android:name=".Saxophone">
+        </activity>
+        <activity android:name=".Flute">
+        </activity>
+        <activity android:name=".FrenchHorn">
+        </activity>
     </application>
 
 </manifest>
